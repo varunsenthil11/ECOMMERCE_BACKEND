@@ -1,39 +1,7 @@
-# Ecommerce Application Backend
-
-Welcome to the backend repository for our Ecommerce Application! This repository contains the backend implementation using Expressjs, Mongoose, JWT(JSON Web Tokens), Bcrypt, and Docker.
-
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Swagger Documentation](#swagger-documentation)
-
-
-## Features
-
-- *Authentication*: Secure user authentication using JWT and password hashing with Bcrypt.
-- *User Management*: CRUD operations for managing users.
-- *Product Management*: CRUD operations for managing products.
-- *Order Management*: Create, read, update, and delete orders.
-- *Authorization*: Role-based access control for different resources.
-- *Docker Support*: Easily deployable with Docker.## Usage
-
-### Swagger Documentation
-
-The API endpoints are documented using Swagger. After starting the server, you can access the Swagger UI documentation by navigating to the following URL in your web browser:
-
-https://e-commerce-adya-3.onrender.com/apis-adya
-
-
 
 ## Installation
 
 1. *Clone the repository*:
-
-    bash
-    git clone https://github.com/Sanjay-s-890/E-commerce_adya/tree/master app
-    
 
 2. *Install dependencies*:
 
